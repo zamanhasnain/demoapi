@@ -1,28 +1,22 @@
 {
-  "users": [
+  "slider": [
     {
-      "firstName": "zaman",
-      "lastName": "zaidi",
-      "email": "erzaman.zaidi@gmail.com",
+      "title":"First slide label"
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      "imgPath": "https://zamanhasnain.github.io/demoapi/img/img1.jpg",
       "id": 1
     },
     {
-      "firstName": "asasasa",
-      "lastName": "zaidi",
-      "email": "falakhasnainzaidi@mail.com",
+      "title":"Second slide label"
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      "imgPath":"https://zamanhasnain.github.io/demoapi/img/img2.jpg"
       "id": 2
     },
     {
-      "firstName": "azimul",
-      "lastName": "zaidi",
-      "email": "erzaman.zaidi@gmail.com",
+      "title":"Third slide label"
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      "imgPath":"https://zamanhasnain.github.io/demoapi/img/img3.jpg"
       "id": 3
-    },
-     {
-      "firstName": "asim",
-      "lastName": "hasnain",
-      "email": "asim@gmail.com",
-      "id": 4
     }
   ]
 }
