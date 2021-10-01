@@ -18,5 +18,17 @@
       "imgPath":"https://zamanhasnain.github.io/demoapi/img/img7.jpg",
       "id": 3
     }
+  ],
+  "slick":[
+    {
+    "name":"zaidi"
+    },
+     {
+    "name":"zaidi"
+    },
+     {
+    "name":"zaidi"
+    }
   ]
+  
 }
